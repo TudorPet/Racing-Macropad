@@ -33,7 +33,7 @@ I wrote the firmware using QMK, which was definitely a change compared to what i
 * 4x M3x16mm screws and 4x M3x5mx4mm heatset inserts at €1 – €3 ($1.1 – $3)
 * 1x PCB €5 – €12 ($6 – $13)
 * 1x 3D Printed case €5 – €15 ($6 – $17)<br>
-These prices are a sheer estimation and, by no means, 100% accurate. Many of these components can be found priced very differently, depending on location and source. The estimated total ranges between €20 and €50 (huge difference, I know!), however I believe it would cost, at most, €30. A big part of the total is the 3d printed case, so the cost is greatly reduced if you own a 3D printer. 
+These prices are a sheer estimation and, by no means, 100% accurate. Many of these components can be found priced very differently, depending on location and source. The estimated total ranges between €20 and €50 (huge difference, I know!), however I believe it would cost around €30. A big part of the total is the 3d printed case, so the cost is greatly reduced if you own a 3D printer. 
 ---
 ### Notes:
 This was my first time doing a project like this (and working with programs such as kicad and fusion - which i really enjoyed!). As someone familiar with algorithmics (that also occasionaly helps with repairing/building electronics), I found the design process really fun, however also a bit demanding for a person with so little experience. It took a little bit longer to finish the first version than i would have wanted, however im happy with the way it turned out. I want to keep working on it, implementing features such as syncing the leds to different titles and designing a stand compatible with different racing rigs.
