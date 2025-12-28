@@ -11,9 +11,9 @@
     },
     "matrix_pins": {
         "direct": [
-            ["GP5", "GP4", "GP3", null],
-            ["GP2", "GP6", "GP7", null],
-            ["GP10", null, null, null]
+            ["GP6", "GP29", "GP28", null],
+            ["GP27", "GP7", "GP0", null],
+            ["GP4", null, null, null]
         ]
     },
     "processor": "RP2040",
