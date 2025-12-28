@@ -27,12 +27,12 @@ I wrote the firmware using QMK, which was definitely a change compared to what i
 ---
 
 ### BOM:
-* 1x Seeed XIAO RP2040 at €3.5 – €8.5 (~$4 – $9)
-* 6x MX-Style switches at €0.50 – €0.60 (~$0.55 – $0.65) per switch, so €3 – €4 ($3.3 – $4.0)
-* 1x EC11 Rotary encoder at €4 – €5 (~$4.5 – $5.5)
-* 4x M3x16mm screws and 4x M3x5mx4mm heatset inserts at €1 – €3 ($1.1 – $3)
-* 1x PCB €5 – €12 ($6 – $13)
-* 1x 3D Printed case €5 – €15 ($6 – $17)<br>
+* 1x Seeed XIAO RP2040 at €3.5 - €8.5 (~$4 - $9)
+* 6x MX-Style switches at €0.50 - €0.60 (~$0.55 - $0.65) per switch, so €3 - €4 ($3.3 - $4.0)
+* 1x EC11 Rotary encoder at €4 - €5 (~$4.5 - $5.5)
+* 4x M3x16mm screws and 4x M3x5mx4mm heatset inserts at €1 - €3 ($1.1 - $3)
+* 1x PCB €5 - €12 ($6 - $13)
+* 1x 3D Printed case €5 - €15 ($6 - $17)<br>
 These prices are a sheer estimation and, by no means, 100% accurate. Many of these components can be found priced very differently, depending on location and source. The estimated total ranges between €20 and €50 (huge difference, I know!), however I believe it would cost around €30. A big part of the total is the 3d printed case, so the cost is greatly reduced if you own a 3D printer. 
 ---
 ### Notes:
