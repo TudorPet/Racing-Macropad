@@ -3,7 +3,6 @@
     "keyboard_name": "racing_macropad",
     "maintainer": "TudorPet",
     "bootloader": "rp2040",
-    "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
         "extrakey": true,
@@ -11,8 +10,11 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["GP5", "GP4", "GP3"],
-        "rows": ["GP2", "GP6", "GP7", "GP10"]
+        "direct": [
+            ["GP5", "GP4", "GP3", null],
+            ["GP2", "GP6", "GP7", null],
+            ["GP10", null, null, null]
+        ]
     },
     "processor": "RP2040",
     "url": "https://hackpad.hackclub.com",
