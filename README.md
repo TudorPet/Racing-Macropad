@@ -28,7 +28,8 @@ I wrote the firmware using QMK, which was definitely a change compared to what i
 
 ### BOM:
 * 1x Seeed XIAO RP2040 at €3.5 - €8.5 (~$4 - $9)
-* 6x MX-Style switches at €0.50 - €0.60 (~$0.55 - $0.65) per switch, so €3 - €4 ($3.3 - $4.0)
+* 6x MX-Style switches at €0.50 - €0.60 (~$0.55 - $0.65) per switch, so €3 - €4 ($3.3 - $4.0) for 6 - if bought in bulk!
+* 6x Keycaps at €0.2 (~$0.25) per key, so around €1.2 (~$1.45) for 6 - if bought in bulk!
 * 1x EC11 Rotary encoder at €4 - €5 (~$4.5 - $5.5)
 * 4x M3x16mm screws and 4x M3x5mx4mm heatset inserts at €1 - €3 ($1.1 - $3)
 * 1x PCB €5 - €12 ($6 - $13)
